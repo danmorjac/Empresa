@@ -1,1 +1,1 @@
-Web deployed: [link]https://danmorjac.github.io/Empresa/
+Web deployed: https://danmorjac.github.io/Empresa/
